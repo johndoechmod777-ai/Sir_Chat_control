@@ -1,6 +1,5 @@
-{ "activo": true, "contraseña": "777", "mensaje": 
-  "SIR_CHAT v1.0"
-# 2. Guardar cambios (Ctrl+X, Y, Enter)} 3. Subir a GitHub
-git add config.json git commit -m "Actualizando 
-configuración"
-git push origin main
+{
+  "activo": true,
+  "contraseña": "777",
+  "mensaje": "SIR_CHAT v1.0"
+}
