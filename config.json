@@ -1,5 +1,5 @@
 {
-  "activo": false,
-  "contraseña": "Chmod777@",
+  "activo": true,
+  "contraseña": "777",
   "mensaje": "SIR_CHAT v1.0"
 }
